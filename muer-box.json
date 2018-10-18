@@ -1,0 +1,14 @@
+{
+  "ignore": [
+    "README.md",
+    ".gitignore"
+  ],
+  "commands": {
+    "Check contracts": "muer check",
+    "Migrate contracts": "muer migrate",
+    "Test contracts": "muer test"
+  },
+  "hooks": {
+    "post-unpack": ""
+  }
+}
