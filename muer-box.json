@@ -4,8 +4,8 @@
     ".gitignore"
   ],
   "commands": {
-    "Check contracts": "muer check",
-    "Migrate contracts": "muer migrate",
+    "Compile contracts": "muer compile",
+    "Deploy contracts": "muer deploy",
     "Test contracts": "muer test"
   },
   "hooks": {
